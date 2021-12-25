@@ -7,7 +7,7 @@
           data-aos-once="true">
           <div style="color: #{{ .Site.Params.namecolor }};" class="hi-text" data-aos="fade-up" data-aos-offset="50"
             data-aos-delay="50" data-aos-once="true" data-aos-duration="900">
-            Hi there, I'm
+            Bonjour à tous, c'est
           </div>
           <h1 class="text-primary name-text" data-aos="fade-up" data-aos-offset="200" data-aos-delay="50"
             data-aos-duration="900" data-aos-once="true">
@@ -20,69 +20,45 @@
         </div>
         <div class="row social pt-4" data-aos="fade-up" data-aos-offset="50" data-aos-delay="50" data-aos-duration="900"
           data-aos-once="true">
-          <div class="col-md-12">
-            {{ if .Site.Params.github }}
-            <a href="{{ .Site.Params.github }}" class="social-icon">
-              <i class="fab fa-lg fa-github"></i>
-              &#8203;
-            </a>
-            <span class="px-1"></span>
-            {{ end }}
+          {{ if .Site.Params.github }}
+          <a href="{{ .Site.Params.github }}" class="social-icon">
+            <i class="fab fa-lg fa-github"></i>
+          </a>
+          <span class="px-1"></span>
+          {{ end }}
 
-            {{ if .Site.Params.gitlab }}
-            <a href="{{ .Site.Params.gitlab }}" class="social-icon">
-              <i class="fab fa-lg fa-gitlab"></i>
-              &#8203;
-            </a>
-            <span class="px-1"></span>
-            {{ end }}
+          {{ if .Site.Params.gitlab }}
+          <a href="{{ .Site.Params.gitlab }}" class="social-icon">
+            <i class="fab fa-lg fa-gitlab"></i>
+          </a>
+          <span class="px-1"></span>
+          {{ end }}
 
-            {{ if .Site.Params.twitter }}
-            <a href="{{ .Site.Params.twitter }}" class="social-icon">
-              <i class="fab fa-lg fa-twitter"></i>
-              &#8203;
-            </a>
-            <span class="px-1"></span>
-            {{ end }}
+          <!--{{ if .Site.Params.twitter }}
+          <a href="{{ .Site.Params.twitter }}" class="social-icon">
+            <i class="fab fa-lg fa-twitter"></i>
+          </a>
+          <span class="px-1"></span>
+          {{ end }}-->
 
-            {{ if .Site.Params.linkedin }}
-            <a href="{{ .Site.Params.linkedin }}" class="social-icon">
-              <i class="fab fa-lg fa-linkedin"></i>
-              &#8203;
-            </a>
-            <span class="px-1"></span>
-            {{ end }}
+          {{ if .Site.Params.linkedin }}
+          <a href="{{ .Site.Params.linkedin }}" class="social-icon">
+            <i class="fab fa-lg fa-linkedin"></i>
+          </a>
+          <span class="px-1"></span>
+          {{ end }}
 
-            {{ if .Site.Params.facebook }}
-            <a href="{{ .Site.Params.facebook }}" class="social-icon">
-              <i class="fab fa-lg fa-facebook"></i>
-              &#8203;
-            </a>
-            <span class="px-1"></span>
-            {{ end }}
+          <!--{{ if .Site.Params.facebook }}
+          <a href="{{ .Site.Params.facebook }}" class="social-icon">
+            <i class="fab fa-lg fa-facebook"></i>
+          </a>
+          {{ end }}-->
 
-            <!-- customSocialLinks -->
-            {{ range .Site.Params.customSocialLinks }}
-            {{ if .fontAwesomeIconName }}
-            <a href="{{ .url }}" class="social-icon">
-              <i class="fa-lg {{ .fontAwesomeIconName }}"></i>
-              &#8203;
-            </a>
-            {{ else }}
-            <a href="{{ .url }}" class="social-icon">
-              <img class="fab fa-lg" src="{{ .imageURL }}" alt="{{ .name }}" width="4%" />
-              &#8203;
-            </a>
-            {{ end }}
-            <span class="px-1"></span>
-            {{ end }}
-          </div>
         </div>
-
         <div class="pt-4 btn-intro">
           <a href="#about" class="btn-know btn btn-outline-info" data-aos="zoom-in" data-aos-offset="50"
             data-aos-delay="50" data-aos-duration="900" data-aos-once="true">
-            About me
+            À propos de moi
           </a>
         </div>
 
