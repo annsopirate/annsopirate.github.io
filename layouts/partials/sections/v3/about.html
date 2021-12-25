@@ -1,7 +1,7 @@
 <div id="about" class="about-backdark about-back">
   <section class="pt-5">
     <div class="container-fluid">
-      <div class="text-dark text-center h3">About Me</div>
+      <div class="text-dark text-center h3">À propos de moi</div>
       <div class="row justify-content-center about">
         <div class="col-md-6 about-content">
           <div data-aos="zoom-in-up" data-aos-offset="50" data-aos-delay="50" data-aos-once="true"
@@ -11,12 +11,22 @@
               <br />
               <br />
               {{ .Site.Params.descripe_l2_person | markdownify }}
+              <br />
+              <br />
+              {{ .Site.Params.descripe_l3_person | markdownify }}
+              <br />
+              {{ .Site.Params.descripe_l4_person | markdownify }}
+              <br />
+              {{ .Site.Params.descripe_l5_person | markdownify }}
+              <br />
+              <br />
+              {{ .Site.Params.descripe_l6_person | markdownify }}
             </div>
             {{ if .Site.Params.email }}
             <div class="py-3 pl-2">
               <a href="mailto:{{ .Site.Params.email }}?subject=Say hi!" target="_blank"
                 class="contact-btn btn text-muted">
-                Get In Touch
+                Contactez-moi ! :)
               </a>
             </div>
             {{ end }}
@@ -25,7 +35,7 @@
         <div class="col-md-5 about-skill">
           <div data-aos="zoom-in-down" data-aos-offset="50" data-aos-delay="50" data-aos-once="true"
             data-aos-duration="1000">
-            <div class="text-secondary text-center h4">Skills</div>
+            <div class="text-secondary text-center h4">Compétences</div>
             {{ range .Site.Params.skills }}
             <div>
               <div>{{ .name }}</div>
