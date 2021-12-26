@@ -125,7 +125,7 @@ params:
     - name: "Portfolio"
       date: "> Novembre 2021 -  | Projet pour mes études"
       img: /images/portfo.png
-      githublink: "https://github.com/"
+      githublink: "https://github.com/annsopirate/Portfolio"
       featuredlink: "/"
       description: "Création de mon portfolio à l'aide du logiciel Hugo. Grâce à ce projet, j'ai appris à utiliser Hugo correctement et en profondeur !"
 
