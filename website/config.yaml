@@ -133,7 +133,6 @@ params:
       date: "> Décembre 2021"
       img: /images/prjtmarathon.png
       githublink: "https://github.com/annsopirate/Projet_Marathon"
-      featuredlink: "/"
       description: "Le \"Projet Marathon\" consistait en la réalisation d'un site de gestion de séries télévisées. Mes deux camarades et moi avons fait équipe avec 3 étudiants en DUT MMI. Nous avons réalisé le back-end et eux le front."
 
 
