@@ -185,7 +185,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: Si vous avez besoin de plus d'informations, vous pouvez me contacter par mail ! Ce sera avec plaisir de vous répondre.
+  contact_content: Si vous avez besoin de plus d'informations, vous pouvez me contacter par mail ! Ce sera un plaisir de vous répondre.
   email: "anne-sophie_hovart@ens.univ-artois.fr"
   
   # Footer
