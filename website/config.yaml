@@ -68,14 +68,15 @@ params:
       percentage: 80
     - name: Bash
       percentage: 70
+    - name: Hugo
+      percentage: 60
     - name: Python
       percentage: 50
+    - name: PHP
+      percentage: 40
     - name: Java
       percentage: 40
-    - name: Hugo
-      percentage: 35
-    - name: PHP
-      percentage: 20
+        
 
   # Experience
   disable_experience: true
