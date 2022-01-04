@@ -181,6 +181,7 @@ params:
 
     - title: CV (Anglais)
       description: Obtenez mon CV en Anglais.
+      description: Download my CV (english version)
       img: /images/cv_anglais.PNG
       url: /images/CV_HOVART_Anne-Sophie_AN.pdf
 
