@@ -80,41 +80,41 @@
 
     {{ if .Site.Params.disable_home }}
     {{ else }}
-    {{- partial "layouts/sections/v3/home.html" . -}}
+    {{- partial "layouts/partials/sections/v3/home.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_about }}
     {{ else }}
-    {{- partial "layouts/sections/v3/about.html" . -}}
+    {{- partial "layouts/partials/sections/v3/about.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_experience }}
     {{ else }}
-    {{- partial "layouts/sections/v3/experience.html" . -}}
+    {{- partial "layouts/partials/sections/v3/experience.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_education }}
     {{ else }}
-    {{- partial "layouts/sections/v3/education.html" . -}}
+    {{- partial "layouts/partials/sections/v3/education.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_projects }}
     {{ else }}
-    {{- partial "layouts/sections/v3/projects.html" . -}}
+    {{- partial "layouts/partials/sections/v3/projects.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_achievements }}
     {{ else }}
-    {{- partial "layouts/sections/v3/achievements.html" . -}}
+    {{- partial "layouts/partials/sections/v3/achievements.html" . -}}
     {{ end }}
 
     {{ if .Site.Params.disable_contact }}
     {{ else }}
-    {{- partial "layouts/sections/v3/contact.html" . -}}
+    {{- partial "layouts/partials/sections/v3/contact.html" . -}}
     {{ end }}
 
-    {{- partial "layouts/sections/v3/footer.html" . -}}
-    {{- partial "layouts/sections/v3/scripts.html" . -}}
+    {{- partial "layouts/partials/sections/v3/footer.html" . -}}
+    {{- partial "layouts/partials/sections/v3/scripts.html" . -}}
   </div>
   <script>
     /*
