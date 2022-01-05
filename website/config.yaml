@@ -1,4 +1,4 @@
-baseURL: "https://annsopirate.github.io/Portfolio/"
+baseURL: "https://annsopirate.github.io/"
 languageCode: "en-us"
 title: "Hovart Anne-Sophie - Portfolio"
 theme: "./.."
