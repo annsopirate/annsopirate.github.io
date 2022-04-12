@@ -127,7 +127,7 @@ params:
   projects:
     - name: "Création d'un Burger Quiz en Typescript"
       date: "> Avril 2022"
-      img: /images/burgerquiz.png
+      img: /images/burgerquiz.PNG
       githublink: ""
       description: "En équipe de 6, nous avons dû réaliser un site internet en Angular, reprenant le concept du Burger Quiz. Pendant deux jours, nous avons travaillé comme si nous étions en entreprise, en suivant la méthode Agile."
       
