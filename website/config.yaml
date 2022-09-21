@@ -34,7 +34,7 @@ params:
   profile_image: "/images/moi.png"
   name: "Anne-Sophie Hovart"
   namecolor: ffc107
-  profession: "Étudiante en deuxième année de DUT informatique"
+  profession: "Étudiante en Licence Professionnelle CréaWeb"
   github: "https://github.com/annsopirate"
   #gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/anne-sophie-hovart/"
@@ -51,8 +51,8 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 19 ans, je suis actuellement en deuxième année de DUT informatique à l'IUT de Lens."
-  descripe_l2_person: "💖 J'adoooore le développement web ! J'ai découvert ce type de programmation lors de ma première année. Ce que j'aimerais faire plus tard dans mon métier, c'est lier l'écologie à la création de sites web."
+  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 19 ans, je suis actuellement en LP CréaWeb à l'IUT de Lens."
+  descripe_l2_person: "💖 J'adoooore le développement web ! J'ai découvert ce type de programmation lors de ma première année de DUT informatique. Ce que j'aimerais faire plus tard dans mon métier, c'est lier l'écologie à la création de sites web."
   descripe_l3_person: "🎨 À part ça, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
   descripe_l4_person: "📕 Ce que je lis en ce moment : Harry Potter et la coupe de feu."
   descripe_l5_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
@@ -111,11 +111,16 @@ params:
   # Education
   disable_education: false
   education:
+    - degree: "Licence Professionnelle"
+      branch: "CréaWeb"
+      university: "IUT de Lens"
+      startedyear: "2022"
+      graduation: "en cours"
     - degree: "DUT"
       branch: "Informatique"
       university: "IUT de Lens"
       startedyear: "2020"
-      graduation: "en cours"
+      graduation: "2022"
     - degree: "BAC S"
       branch: "Spé mathématiques"
       university: "Lycée Arthur Rimbaud"
