@@ -52,8 +52,8 @@ params:
   # About
   disable_about: false
   descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 19 ans, je suis actuellement en LP CréaWeb à l'IUT de Lens."
-  descripe_l2_person: "💖 J'adoooore le développement web ! J'ai découvert ce type de programmation lors de ma première année de DUT informatique. Ce que j'aimerais faire plus tard dans mon métier, c'est lier l'écologie à la création de sites web."
-  descripe_l3_person: "🎨 À part ça, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
+  descripe_l2_person: "💖 Ce qui me plaît c'est le graphisme, le design et le développement web front-end ! J'ai découvert ce type de développement lors de ma première année de DUT informatique et lors de mon année de licence, je compte en apprendre davantage sur le graphisme."
+  descripe_l3_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
   descripe_l4_person: "📕 Ce que je lis en ce moment : Harry Potter et la coupe de feu."
   descripe_l5_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
   descripe_l6_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
@@ -130,17 +130,18 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "Maquette d'une application de streaming musical"
+      date: "> Octobre 2022"
+      img: /images/
+      githublink: ""
+      featuredlink: "https://www.figma.com/proto/eMq1QyXQTC0NUFK5JuD49A/Exercice-2---Design-Web?page-id=0%3A1&node-id=1%3A2&viewport=397%2C167%2C0.04&scaling=scale-down&starting-point-node-id=1%3A2"
+      description: "Ceci est la première maquette que je réalise avec Figma. En cliquant sur le lien, vous aurez accès au prototype."
+    
     - name: "Création d'un Burger Quiz en Typescript"
       date: "> Avril 2022"
       img: /images/burgerquiz.PNG
       githublink: ""
       description: "En équipe de 6, nous avons dû réaliser un site internet en Angular, reprenant le concept du Burger Quiz. Pendant deux jours, nous avons travaillé comme si nous étions en entreprise, en suivant la méthode Agile."
-      
-    - name: "Ajout du sprint dans Flatcraft"
-      date: "> Mars - Avril 2022"
-      img: /images/flatcraft.png
-      githublink: ""
-      description: "En Architecture Logicielle nous avons eu comme projet de réaliser une nouvelle fonctionnalité (en Java) à ajouter au jeu Flatcraft déjà existant. Avec mon binôme, nous avons choisi d'ajouter le sprint."
       
     - name: "Portfolio"
       date: "> Novembre 2021 -  | Projet pour mes études"
@@ -161,18 +162,6 @@ params:
       img: /images/xavpc.PNG
       featuredlink: "http://xavpc.free.fr/"
       description: "Création de la version 3 du site de l'enteprise XavPC en HTML / CSS. Pour m'entraîner pendant les vacances, j'ai voulu refaire entièrement ce site avec les connaissances acquises en première année."
-
-    - name: "Labyrinthe"
-      date: "> Avril - Juin 2021 "
-      img: /images/laby.png
-      githublink: "https://github.com/annsopirate/Labyrinthe"
-      description: "Réalisation du jeu de société Labyrinthe en Java, en utilisant la librairie swing pour l'interface graphique. Projet réalisé en équipe de quatre."
-
-    - name: "Sokoban"
-      date: "> Mai - Juin 2021 "
-      img: /images/sokoban.PNG
-      githublink: "https://github.com/Baptisteh62/Sokoban-Foxers"
-      description: "Réalisation du jeu Sokoban à l'aide de PyQt en suivant le modèle MVC en équipe de quatre. Projet enrichissant que j'aurais aimé développer davantage."
 
     - name: "Portail national des IUT informatique"
       date: "> Novembre 2020 - Janvier 2021 | Projet pour mes études"
