@@ -132,7 +132,7 @@ params:
   projects:
     - name: "UI Challenge"
       date: "> Février 2023"
-      img: /images/
+      img: /images/uichallenge.png
       githublink: ""
       featuredlink: "https://www.figma.com/file/mL4zjnQUlTchybndTvSOuZ/D%C3%A9fis?type=design&node-id=28%3A151&t=7gdI8q466Gu3q3iH-1"
       description: 'Défi 1 : écran de connexion - 45 minutes ——
@@ -142,7 +142,7 @@ params:
   
     - name: "Maquettes du site Coatle"
       date: "> Octobre 2022"
-      img: /images/
+      img: /images/coatle.png
       githublink: ""
       featuredlink: "https://www.figma.com/proto/TsEP7UFYoXR5UeP1H7zHjf/Exercice-3---Design-Web?page-id=0%3A1&node-id=7-155&starting-point-node-id=7%3A155&scaling=scale-down"
       description: "J'ai réalisé la page d'accueil et la page produit d'un site fictif vendant du chocolat."
