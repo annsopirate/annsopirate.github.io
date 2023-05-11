@@ -130,6 +130,13 @@ params:
   # Projects
   disable_projects: false
   projects:
+    - name: "UI Challenge"
+      date: "> Février 2023"
+      img: /images/
+      githublink: ""
+      featuredlink: "https://www.figma.com/file/mL4zjnQUlTchybndTvSOuZ/D%C3%A9fis?type=design&node-id=28%3A151&t=7gdI8q466Gu3q3iH-1"
+      description: "Défi 1 : écran de connexion - 45 minutes \nDéfi 2 : écran de réglage de température - 1h30 \nDéfi 3 : widget de player de musique - 30 minutes \nDéfi 4 : écran de choix de pricing - 1h"
+  
     - name: "Maquette d'une application de streaming musical"
       date: "> Octobre 2022"
       img: /images/musicapp.png
@@ -177,7 +184,7 @@ params:
   achievements:
     - title: Projet Voltaire
       description: Obtention du certificat Voltaire avec un total de 848 points.
-      img: /images/prjtvol.PNG
+      img: /images/prjtvol.png
       url: https://mon.certificat-voltaire.fr/verification-certificat?code=AYVGVNV
 
 
