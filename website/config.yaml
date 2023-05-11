@@ -135,8 +135,19 @@ params:
       img: /images/
       githublink: ""
       featuredlink: "https://www.figma.com/file/mL4zjnQUlTchybndTvSOuZ/D%C3%A9fis?type=design&node-id=28%3A151&t=7gdI8q466Gu3q3iH-1"
-      description: "Défi 1 : écran de connexion - 45 minutes \nDéfi 2 : écran de réglage de température - 1h30 \nDéfi 3 : widget de player de musique - 30 minutes \nDéfi 4 : écran de choix de pricing - 1h"
+      description: |
+      Défi 1 : écran de connexion - 45 minutes 
+      Défi 2 : écran de réglage de température - 1h30 
+      Défi 3 : widget de player de musique - 30 minutes 
+      Défi 4 : écran de choix de pricing - 1h
   
+    - name: "Maquette d'une application de streaming musical"
+      date: "> Octobre 2022"
+      img: /images/musicapp.png
+      githublink: ""
+      featuredlink: "https://www.figma.com/proto/eMq1QyXQTC0NUFK5JuD49A/Exercice-2---Design-Web?page-id=0%3A1&node-id=1%3A2&viewport=397%2C167%2C0.04&scaling=scale-down&starting-point-node-id=1%3A2"
+      description: "Ceci est la première maquette que je réalise avec Figma. En cliquant sur le lien, vous aurez accès au prototype."
+      
     - name: "Maquette d'une application de streaming musical"
       date: "> Octobre 2022"
       img: /images/musicapp.png
