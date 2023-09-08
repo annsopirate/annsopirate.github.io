@@ -61,7 +61,6 @@ params:
 
   skills:
     - name: Markdown
-      percentage: 95
     - name: HTML/CSS
       percentage: 80
     - name: SQL
@@ -115,7 +114,7 @@ params:
       branch: "CréaWeb"
       university: "IUT de Lens"
       startedyear: "2022"
-      graduation: "en cours"
+      graduation: "2023"
     - degree: "DUT"
       branch: "Informatique"
       university: "IUT de Lens"
