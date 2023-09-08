@@ -34,7 +34,7 @@ params:
   profile_image: "/images/moi.png"
   name: "Anne-Sophie Hovart"
   namecolor: ffc107
-  profession: "Étudiante en Licence Professionnelle CréaWeb"
+  profession: "Récemment diplômée d'une Licence Professionnelle CréaWeb et à la recherche d'un emploi"
   github: "https://github.com/annsopirate"
   #gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/anne-sophie-hovart/"
@@ -51,7 +51,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 20 ans, je suis actuellement en LP CréaWeb à l'IUT de Lens. Je fais mon alternance dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet."
+  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 20 ans, je suis en ce moment à la recherche d'un emploi. J'ai validé (avec la mention bien) ma LP CréaWeb que j'ai effectuée à l'IUT de Lens. Je fais mon alternance dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet."
   descripe_l2_person: "💖 Ce qui me plaît c'est le graphisme, le design et le développement web front-end ! J'ai découvert ce type de développement lors de ma première année de DUT informatique et lors de mon année de licence, je compte en apprendre davantage sur le graphisme."
   descripe_l3_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
   descripe_l4_person: "📕 Ce que je lis en ce moment : Harry Potter et la coupe de feu."
