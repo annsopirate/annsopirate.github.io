@@ -60,27 +60,28 @@ params:
 
 
   skills:
+    - name: Figma
+      percentage: 70
+    - name: XD
+      percentage: 50
+    - name: WordPress
+      percentage: 70
+    - name: Divi Builder
+      percentage: 70
     - name: Markdown
+      percentage: 95
     - name: HTML/CSS
       percentage: 80
     - name: SQL
       percentage: 80
-    - name: Bash
-      percentage: 70
     - name: Hugo
       percentage: 60
-    - name: Python
-      percentage: 50
     - name: PHP
-      percentage: 40
-    - name: Typescript / Javascript
-      percentage: 40
-    - name: Java
       percentage: 40
         
 
   # Experience
-  disable_experience: false
+  disable_experience: true
   experience:
     - company: "Google"
     - company: "Facebook"
