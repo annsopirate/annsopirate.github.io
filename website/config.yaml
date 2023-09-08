@@ -80,7 +80,7 @@ params:
         
 
   # Experience
-  disable_experience: true
+  disable_experience: false
   experience:
     - company: "Google"
       # id: "google-developer"   // use this, when you want to change the id(used for navigation)
