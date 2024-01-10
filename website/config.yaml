@@ -1,6 +1,6 @@
 baseURL: "https://annsopirate.github.io/"
 languageCode: "en-us"
-title: "Hovart Anne-Sophie - Portfolio"
+title: "Portfolio de Anne-Sophie Hovart"
 theme: "./.."
 relativeURLs: true
 
@@ -51,7 +51,7 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 20 ans, je suis en ce moment à la recherche d'un emploi. J'ai validé (avec la mention bien) ma LP CréaWeb que j'ai effectuée à l'IUT de Lens. J'ai dernièrement effectué mon alternance durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet."
+  descripe_l1_person: "🌈 Heyyy ! Moi c'est Anne-Sophie, j'ai 21 ans, je suis en ce moment à la recherche d'un emploi. J'ai validé (avec la mention bien) ma LP CréaWeb que j'ai effectuée à l'IUT de Lens. J'ai dernièrement effectué mon alternance durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet."
   descripe_l2_person: "💖 Ce qui me plaît c'est le graphisme, le design et le développement web front-end ! J'ai découvert ce type de développement lors de ma première année de DUT informatique et lors de mon année de licence, je compte en apprendre davantage sur le graphisme."
   descripe_l3_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
   descripe_l4_person: "📕 Ce que je lis en ce moment : Harry Potter et la coupe de feu."
@@ -68,6 +68,12 @@ params:
       percentage: 70
     - name: Divi Builder
       percentage: 70
+    - name : After Effects
+      percentage: 40
+    - name : Photoshop
+      percentage : 30
+    - name : Photographie
+      percentage : 50
     - name: Markdown
       percentage: 95
     - name: HTML/CSS
@@ -199,7 +205,7 @@ params:
 
   # Contact
   disable_contact: false
-  contact_content: Si vous avez besoin de plus d'informations, vous pouvez me contacter par mail ! Je me ferai un plaisir de vous répondre.
+  contact_content: Si vous avez besoin de plus d'informations, ou si mon profil vous correspond, vous pouvez me contacter par mail ! Je me ferai un plaisir d'échanger avec vous.
   email: "anne-sophie_hovart@ens.univ-artois.fr"
   
   # Footer
