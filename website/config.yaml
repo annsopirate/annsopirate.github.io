@@ -51,13 +51,13 @@ params:
   
   # About
   disable_about: false
-  #descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 21 ans, je suis en ce moment à la recherche d’un emploi dans le web design, l’UX/UI design et dans la communication ! \nJ’ai validé (avec la mention bien) ma LP CréaWeb que j’ai effectuée à l’IUT de Lens. J’ai dernièrement effectué mon alternance durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet. Cette expérience m’a permis de gagner en compétence et d’enrichir mes connaissances."
-  #descripe_l2_person: "💖 Lors de mes études et de mes expériences professionnelle et personnelle, j’ai appris et exercé de nombreuses choses diverses et variées. Voici ce qui me plaît par-dessus tout :"
-  #descripe_l3_person: "- l'UX/UI ; \n- Le maquettage et le prototypage (Figma) ; \n- La création de sites (Divi Builder, WordPress) ; \n- Le rédactionnel (pour les réseaux sociaux et pour les sites internet) ; \n- Le référencement naturel (SEO) ; \n- La photographie (téléphone, numérique, hybride) ; \n- La création de vidéos pour des projets personnels ; \n- Le motion design (After Effects) ; \n- Le développement front-end."
-  #descripe_l4_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
-  #descripe_l5_person: "📕 Ce que je lis en ce moment : Lou Sonata 2."
-  #descripe_l6_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
-  #descripe_l7_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
+  descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 21 ans, je suis en ce moment à la recherche d’un emploi dans le web design, l’UX/UI design et dans la communication ! \nJ’ai validé (avec la mention bien) ma LP CréaWeb que j’ai effectuée à l’IUT de Lens. J’ai dernièrement effectué mon alternance durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet. Cette expérience m’a permis de gagner en compétence et d’enrichir mes connaissances."
+  descripe_l2_person: "💖 Lors de mes études et de mes expériences professionnelle et personnelle, j’ai appris et exercé de nombreuses choses diverses et variées. Voici ce qui me plaît par-dessus tout :"
+  descripe_l3_person: "- l'UX/UI ; \n- Le maquettage et le prototypage (Figma) ; \n- La création de sites (Divi Builder, WordPress) ; \n- Le rédactionnel (pour les réseaux sociaux et pour les sites internet) ; \n- Le référencement naturel (SEO) ; \n- La photographie (téléphone, numérique, hybride) ; \n- La création de vidéos pour des projets personnels ; \n- Le motion design (After Effects) ; \n- Le développement front-end."
+  descripe_l4_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
+  descripe_l5_person: "📕 Ce que je lis en ce moment : Lou Sonata 2."
+  descripe_l6_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
+  descripe_l7_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
  
   
 
