@@ -303,7 +303,7 @@ a:hover {
   right: 0px;
 }
 .edu-img {
-  width: 70%;
+  width: 65%;
 }
 @media only screen and (max-width: 768px) {
   .edu-item::before {
