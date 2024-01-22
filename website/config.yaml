@@ -131,8 +131,8 @@ params:
       graduation: "2020"
 
   # Projects
-  disable_projects2: false
-  projects2:
+  disable_projects: false
+  projects:
     - name: "test"
       date: "> Février - Juillet 2023"
       img: /images/site_croquante.png
