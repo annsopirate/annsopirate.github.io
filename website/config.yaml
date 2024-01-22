@@ -169,12 +169,33 @@ params:
       featuredlink: "https://www.figma.com/proto/eMq1QyXQTC0NUFK5JuD49A/Exercice-2---Design-Web?page-id=0%3A1&node-id=1%3A2&viewport=397%2C167%2C0.04&scaling=scale-down&starting-point-node-id=1%3A2"
       description: "Ceci est la première maquette que je réalise avec Figma. En cliquant sur le lien, vous aurez accès au prototype."
 
-    - name: ""
-      date: " Septembre 2022"
-      img: /images/
+    - name: "Animation d'une image"
+      date: "> Septembre 2022"
+      img: /images/animation_image.jpg
       githublink: ""
-      featuredlink: ""
+      featuredlink: "https://mega.nz/file/X8MwTDyK#D2WaUJAf89PUBIz9AO5-EA666KDSy2vHkKXlqssdVt0"
+      description: "Pour ce dernier projet en Motion Design, nous avons dû utiliser tous les outils appris lors des cours."
+
+    - name: "Présentation d'un site web"
+      date: "> Septembre 2022"
+      img: /images/presentation_site_motion_design.jpg
+      githublink: ""
+      featuredlink: "https://mega.nz/file/LoUwFBoY#rn70qMoj3cD__ENj1s7cEFAmDekp69Us_kpLGzBBwH4"
       description:
+
+    - name: "Création d'une bannière web"
+      date: "> Septembre 2022"
+      img: /images/banniere_web_anim.jpg
+      githublink: ""
+      featuredlink: "https://mega.nz/file/y0tFXDRR#nsmHU66O9H3t1JuXZhiNwhjwFC0n6g4ll_I01wPVlfc"
+      description: "Pour ce projet de Motion Design, nous avons dû réaliser une bannière pour une entreprise de notre choix. Il a fallu décomposer la réalisation en deux parties : réaliser d'abord le bandeau des réseaux sociaux puis le reste."
+
+    - name: "Animation d'un logo"
+      date: "> Septembre 2022"
+      img: /images/anim_logo_iut_lens.jpg
+      githublink: ""
+      featuredlink: "https://mega.nz/file/qtVAxDbA#clD3AGvOMLXc7CZeSTepo7k44u-YQwPNElKoYz8h3uw"
+      description: "En cours de Motion Design, nous avons dû animer le logo de l'IUT de Lens sur After Effects en utilisant différents outils de base pour la prise en main du logiciel."
     
     - name: "Création d'un Burger Quiz en Typescript"
       date: "> Avril 2022"
