@@ -131,6 +131,14 @@ params:
       graduation: "2020"
 
   # Projects
+  disable_projects2: false
+  projects2:
+    - name: "test"
+      date: "> Février - Juillet 2023"
+      img: /images/site_croquante.png
+      githublink: ""
+      featuredlink: "https://xd.adobe.com/view/2a9b257a-f854-4d22-8eb1-355fa922eada-7fc8/"
+      description: "test"
   disable_projects: false
   projects:
     - name: "Refonte du site Croquante"
