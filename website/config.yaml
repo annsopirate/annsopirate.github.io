@@ -131,15 +131,6 @@ params:
       graduation: "2020"
 
   # Projects
-  disable_projects: false
-  projects:
-    - name: "test"
-      date: "> Février - Juillet 2023"
-      img: /images/site_croquante.png
-      githublink: ""
-      featuredlink: "https://xd.adobe.com/view/2a9b257a-f854-4d22-8eb1-355fa922eada-7fc8/"
-      description: "test"
-  disable_projects: false
   projects:
     - name: "Refonte du site Croquante"
       date: "> Février - Juillet 2023"
@@ -147,6 +138,13 @@ params:
       githublink: ""
       featuredlink: "https://xd.adobe.com/view/2a9b257a-f854-4d22-8eb1-355fa922eada-7fc8/"
       description: "Lors de mon alternance, j'ai réalisé les maquettes pour le site de Croquante sous les consignes et conseils d'Anastasia Le Boucher."
+    
+    - name: "Student Atomicus"
+      date: "> Avril 2023"
+      img: /images/student_atomicus_hovart_anne-sophie.jpg
+      url: /images/CV_Anne-Sophie_Hovart.pdf
+      description: "Pour ce projet photo, il fallait s'inspirer de la photographie Dalí Atomicus. Cette photo a été prise et retouchée par moi."
+      
     - name: "UI Challenge"
       date: "> Février 2023"
       img: /images/uichallenge.png
