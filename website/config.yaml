@@ -181,14 +181,14 @@ params:
       img: /images/presentation_site_motion_design.jpg
       githublink: ""
       featuredlink: "https://mega.nz/file/LoUwFBoY#rn70qMoj3cD__ENj1s7cEFAmDekp69Us_kpLGzBBwH4"
-      description:
+      description: "Pour ce projet en Motion Design, il a fallu assembler dans une composition les captures du site web qu'on souhaitait présenter, et dans une autre, intégrer le défilement. Puis, réaliser l'animation des légendes et le fond.
 
     - name: "Création d'une bannière web"
       date: "> Septembre 2022"
       img: /images/banniere_web_anim.jpg
       githublink: ""
       featuredlink: "https://mega.nz/file/y0tFXDRR#nsmHU66O9H3t1JuXZhiNwhjwFC0n6g4ll_I01wPVlfc"
-      description: "Pour ce projet de Motion Design, nous avons dû réaliser une bannière pour une entreprise de notre choix. Il a fallu décomposer la réalisation en deux parties : réaliser d'abord le bandeau des réseaux sociaux puis le reste."
+      description: "Pour ce projet, nous avons dû réaliser une bannière pour une entreprise de notre choix. Il a fallu décomposer la réalisation en deux parties : réaliser d'abord le bandeau des réseaux sociaux puis le reste."
 
     - name: "Animation d'un logo"
       date: "> Septembre 2022"
