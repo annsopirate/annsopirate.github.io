@@ -157,7 +157,7 @@ params:
 
     - name: "Application de rencontre pour les +50 ans"
       date: "> Janvier - Février 2023"
-      img: /images/
+      img: /images/maquettes_appli_rencontre.jpg
       githublink: ""
       featuredlink: "https://www.figma.com/file/65W1m0maM6vWf0ADoy7KTi/Appli-rencontre-%2B50-ans-(Copy)?type=design&mode=design&t=bXvvvC08ss68RkEP-1"
       description: "En groupe de trois, nous avons réalisé les maquettes principales d'une application de rencontre pour les + de 50 ans. Nous avons déterminé les leviers et l'objectif. Nous avons étudié les concurrents et avons mis en place un benchmark. Enfin, nous nous sommes penchées sur le parcours utilisateur pour mettre en place l'application."
