@@ -131,7 +131,7 @@ params:
       graduation: "2020"
 
   # Projects
-  projects:
+  projects:    
     - name: "Refonte du site Croquante"
       date: "> Février - Juillet 2023"
       img: /images/site_croquante.png
@@ -149,11 +149,18 @@ params:
       date: "> Février 2023"
       img: /images/uichallenge.png
       githublink: ""
-      featuredlink: "https://www.figma.com/file/mL4zjnQUlTchybndTvSOuZ/D%C3%A9fis?type=design&node-id=28%3A151&t=7gdI8q466Gu3q3iH-1"
+      featuredlink: "https://www.figma.com/file/mL4zjnQUlTchybndTvSOuZ/D%C3%A9fis?type=design&mode=design&t=bXvvvC08ss68RkEP-1"
       description: 'Défi 1 : écran de connexion - 45 minutes ——
       Défi 2 : écran de réglage de température - 1h30 ——
       Défi 3 : widget de player de musique - 30 minutes ——
       Défi 4 : écran de choix de pricing - 1h'
+
+    - name: "Application de rencontre pour les +50 ans"
+      date: "> Janvier - Février 2023"
+      img: /images/
+      githublink: ""
+      featuredlink: "https://www.figma.com/file/65W1m0maM6vWf0ADoy7KTi/Appli-rencontre-%2B50-ans-(Copy)?type=design&mode=design&t=bXvvvC08ss68RkEP-1"
+      description: "En groupe de trois, nous avons réalisé les maquettes principales d'une application de rencontre pour les + de 50 ans. Nous avons déterminé les leviers et l'objectif. Nous avons étudié les concurrents et avons mis en place un benchmark. Enfin, nous nous sommes penchées sur le parcours utilisateur pour mettre en place l'application."
   
     - name: "Maquettes du site Coatle"
       date: "> Octobre 2022"
