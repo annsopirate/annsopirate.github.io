@@ -34,7 +34,7 @@ params:
   profile_image: "/images/moi.png"
   name: "Anne-Sophie Hovart"
   namecolor: ffc107
-  profession: "Future étudiante en MBA Expert UI/UX Design et à la recherche d'une alternance (2 semaines entreprise / 1 semaine école)"
+  profession: "Future étudiante en MBA Expert UI/UX Design et à la recherche d'une alternance (2 sem. entreprise / 1 sem. école)"
   github: "https://github.com/annsopirate"
   #gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/anne-sophie-hovart/"
@@ -118,7 +118,6 @@ params:
       branch: "UI/UX Design"
       university: "MyDigitalSchool"
       startedyear: "sept. 2024"
-      graduation: "en cours"
     - degree: "Licence Professionnelle"
       branch: "CréaWeb"
       university: "IUT de Lens"
