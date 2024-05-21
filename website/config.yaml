@@ -255,9 +255,9 @@ params:
 
 
     - title: CV
-      description: Obtenez mon CV en Français.
+      description: Obtenez mon CV.
       img: /images/cv_francais.png
-      url: /images/CV_Anne-Sophie_Hovart.pdf
+      url: /images/CV_HOVART_Anne-Sophie.pdf
 
   # Contact
   disable_contact: false
