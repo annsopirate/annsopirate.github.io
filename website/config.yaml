@@ -145,14 +145,14 @@ params:
       description: "Réalisant actuellement mon stage chez XavPC, je me penche sur la refonte de son site que j'avais moi-même réalisé lors de ma première année de DUT information, il y a ~4 ans."
     
     - name: "Hugo style Brutalisme"
-      date: "> Janvier 2025
+      date: "> Janvier 2025"
       img: /images/hugo_brutalisme.png
       githublink: ""
       featuredlink: "https://www.figma.com/proto/jVMeSTpT0cTEi1m5V9TQkK/Conception-UX---Brutalisme--Memphis?page-id=0%3A1&node-id=152-68&viewport=1795%2C1567%2C0.21&t=sQxOGxjWmT0OVQf9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=152%3A68&show-proto-sidebar=1"
       description: "Ce projet de cours, où il fallait transformer un site existant dans le style brutalisme (ici, le site du framework [Hugo](https://gohugo.io/) m'a permis d'exprimer ma créativité et d'apprendre à créer dans un style qui me plaît très particulièrement."
   
     - name: "Hugo style Memphis"
-      date: "> Mars 2025
+      date: "> Mars 2025"
       img: /images/hugo_memphis.png
       githublink: ""
       featuredlink: "https://www.figma.com/proto/jVMeSTpT0cTEi1m5V9TQkK/Conception-UX---Brutalisme--Memphis?page-id=0%3A1&node-id=570-153&viewport=1795%2C1567%2C0.21&t=sQxOGxjWmT0OVQf9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=570%3A153&show-proto-sidebar=1"
