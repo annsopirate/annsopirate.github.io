@@ -149,14 +149,14 @@ params:
       img: /images/hugo_brutalisme.png
       githublink: ""
       featuredlink: "https://www.figma.com/proto/jVMeSTpT0cTEi1m5V9TQkK/Conception-UX---Brutalisme--Memphis?page-id=0%3A1&node-id=152-68&viewport=1795%2C1567%2C0.21&t=sQxOGxjWmT0OVQf9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=152%3A68&show-proto-sidebar=1"
-      description: "Ce projet de cours, où il fallait transformer un site existant dans le style brutalisme (ici, le site du framework [Hugo](https://gohugo.io/) m'a permis d'exprimer ma créativité et d'apprendre à créer dans un style qui me plaît très particulièrement."
+      description: "Ce projet de cours, où il fallait transformer un site existant dans le style brutalisme (ici, le site du framework gohugo.io m'a permis d'exprimer ma créativité et d'apprendre à créer dans un style qui me plaît très particulièrement."
   
     - name: "Hugo style Memphis"
       date: "> Mars 2025"
       img: /images/hugo_memphis.png
       githublink: ""
       featuredlink: "https://www.figma.com/proto/jVMeSTpT0cTEi1m5V9TQkK/Conception-UX---Brutalisme--Memphis?page-id=0%3A1&node-id=570-153&viewport=1795%2C1567%2C0.21&t=sQxOGxjWmT0OVQf9-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=570%3A153&show-proto-sidebar=1"
-      description: "Lors d'un projet pour les cours, il fallait transformer un site existant dans le style Memphis. J'ai opté pour le site du framework [Hugo](https://gohugo.io/) pour cet exercice, ce qui a constitué un défi très intéressant que j'ai su relever !"
+      description: "Lors d'un projet pour les cours, il fallait transformer un site existant dans le style Memphis. J'ai opté pour le site du framework gohugo.io pour cet exercice, ce qui a constitué un défi très intéressant que j'ai su relever !"
   
     - name: "Refonte du site Croquante"
       date: "> Février - Juillet 2023"
