@@ -138,7 +138,7 @@ params:
   # Projects
   projects:
     - name: "En cours - Refonte du site de XavPC"
-      date: "> Janvier 2025
+      date: "> En cours"
       img: /images/refonte_xavpc.png
       githublink: ""
       featuredlink: ""
