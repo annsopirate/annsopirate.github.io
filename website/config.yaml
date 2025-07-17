@@ -137,12 +137,20 @@ params:
 
   # Projects
   projects:
-    - name: "En cours - Refonte du site de XavPC"
-      date: "> En cours"
+
+    - name: "Développement et mise en ligne du site de XavPC"
+      date: "> Avril-Juillet 2025"
+      img: /images/site_xavpc.png
+      githublink: ""
+      featuredlink: "https://xavpc.fr/"
+      description: "Le site étant une vitrine qui ne nécessite pas de mises à jour fréquentes, j'ai choisi de le développer de manière statique, sans CMS ou constructeur, afin de réduire les coûts d'hébergement."
+      
+    - name: "Refonte du site de XavPC"
+      date: "> Avril-Juillet 2025"
       img: /images/refonte_xavpc.png
       githublink: ""
-      featuredlink: ""
-      description: "Réalisant actuellement mon stage chez XavPC, je me penche sur la refonte de son site que j'avais moi-même réalisé lors de ma première année de DUT information, il y a ~4 ans."
+      featuredlink: "https://www.figma.com/proto/wDp8OgnjMM8ofTUj5Xm5By/Refonte-site-et-identit%C3%A9-graphique-XavPC?page-id=47%3A27&node-id=189-1156&p=f&viewport=112%2C59%2C0.12&t=pI9qOyHpxySskajI-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=189%3A1156"
+      description: "Ayant réalisé mon stage chez XavPC, je me suis penchée sur la refonte de son identité graphique ainsi que sur la refonte de son site que j'avais moi-même réalisé lors de ma première année de DUT informatique, il y a ~4 ans."
     
     - name: "Hugo style Brutalisme"
       date: "> Janvier 2025"
