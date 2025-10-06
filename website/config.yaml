@@ -138,6 +138,13 @@ params:
   # Projects
   projects:
 
+    - name: "Photographies"
+      date: "> 2024 à maintenant"
+      img: /images/photographies_anne-sophie_hovart.png
+      githublink: ""
+      featuredlink: /images/Photographies_Anne-Sophie_Hovart.pdf
+      description: "Voici certaines photographies que j'ai réalisées et retouchées, et que j'aime particulièrement. Logiciels utilisés : Lightroom Classic (retouches) et Photoshop (montages)"
+
     - name: "Développement et mise en ligne du site de XavPC"
       date: "> Avril-Juillet 2025"
       img: /images/site_xavpc.png
