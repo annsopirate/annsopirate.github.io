@@ -65,14 +65,18 @@ params:
 
   skills:
     - name: Figma
-      percentage: 70
+      percentage: false
     - name: XD
       percentage: 50
     - name: WordPress
       percentage: 70
     - name: Divi Builder
       percentage: 70
+    - name: Lightroom Classic
+      percentage: 70
     - name : After Effects (en cours d'acquisition)
+      percentage: 40
+    - name : Premiere Pro (en cours d'acquisition)
       percentage: 40
     - name : Photoshop (en cours d'acquisition)
       percentage : 30
