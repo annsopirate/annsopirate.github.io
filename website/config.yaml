@@ -51,14 +51,16 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 23 ans, je suis en train de déterminer mon nouveau projet professionnel dans l'univers culturel et artistique !"
-  descripe_l2_person: "🎓 En septembre 2024, j'ai intégré le MBA Expert UI/UX chez MyDigitalSchool. De décembre 2024 à avril 2025, j'ai effectué mon alternance chez DC Digital, une agence de création de sites web. Auparavant, j’ai validé (avec la mention bien) ma LP CréaWeb que j’ai effectuée à l’IUT de Lens. J'ai réalisé mon alternance de LP durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet. Cette expérience m’a permis de gagner en compétence et d’enrichir mes connaissances."
-  descripe_l3_person: "💖 Lors de mes études et de mes expériences professionnelles et personnelles, j’ai appris et exercé de nombreuses choses diverses et variées. Voici ce qui me plaît par-dessus tout :"
-  descripe_l4_person: "- l'UX/UI ; \n- Le maquettage et le prototypage (Figma) ; \n- La création de sites (Divi Builder, Elementor, WordPress) ; \n- Le rédactionnel (pour les réseaux sociaux et pour les sites internet) ; \n- Le référencement naturel (SEO) ; \n- La photographie (téléphone, numérique, hybride) ; \n- La création de vidéos pour des projets personnels ; \n- Le motion design (After Effects) ; \n- Le développement front-end."
-  descripe_l5_person: "🎨 À part ça, le dessin, la peinture, la photographie, la lecture et les Rubik's Cube sont mes passe-temps favoris !"
-  descripe_l6_person: "📕 Ce que je lis en ce moment : Harry Potter et la Coupe de Feu."
-  descripe_l7_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
-  descripe_l8_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
+  descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 23 ans et je suis en train de déterminer mon nouveau projet professionnel dans l'univers culturel et artistique !"
+  descripe_l2_person: "🌱 J'ai dernièrement obtenu mon Bac + 4 en UX/UI Design effectué chez MyDigitalSchool. Maintenant, je me consacre à mon nouveau projet pro ! Je souhaite découvrir les métiers qui accompagnent les artistes, tels qu'agent artistique, chargée de diffusion ou tourneuse. De décembre 2024 à avril 2025, j'ai effectué mon alternance chez DC Digital, une agence de création de sites web. Auparavant, j’ai validé (avec la mention bien) ma LP CréaWeb que j’ai effectuée à l’IUT de Lens. J'ai réalisé mon alternance de LP durant 9 mois dans la [Croquante](https://croquante.fr/) agence de communication et créatrice de site internet. Cette expérience m’a permis de gagner en compétence et d’enrichir mes connaissances."
+  descripe_l3_person: "💙 Deux expériences m'ont donné envie de me rapprocher des métiers qui accompagnent les artistes :
+  descripe_l4_person: "- Interview UX donnée à Medallion.fm : En juin 2025, j'ai été inetrviewée par Medallion, une application dédiée aux passionnés de musique. Étant une utilisatrice régulière, j'ai pu partager un regard UX/UI critique sur leur interface et proposer des pistes d'amélioration. Je les ai recontactés en juillet 2025 après avoir recueilli d'autres retours utilisateurs ; \n- Modération d'une chaîne Twitch 1 à 2 fois par semaine (+59k abonnés).
+  descripe_l5_person: "🌟 Lors de mes études et de mes expériences professionnelles et personnelles, j’ai appris et exercé de nombreuses choses diverses et variées. Elles me permettront d'évoluer dans le secteur culturel et artistique, où créativité, compréhension et communication sont essentielles :"
+  descripe_l6_person: "- Empathie utilisateur ; \n- Psychologie cognitive ; \n-UX Research (entretiens, observations, analyse de besoins) ; \n-Rédaction pour le web et réseaux sociaux ; \n- Storytelling visuel et textuel ; \n- Gestion d'identité et cohérence de marque ; \n- Maquettage et prototypage (Figma) ; \n- Photographie et retouche (mobile, hybride, Lightroom) ; \n- Vidéo et montage (Premiere Pro) ; \n- Motion design (After Effects) ; \n- Webdesign et ergonomie ; \n- Création de sites (WordPress, Elementor, Divi) ; \n- Développement front-end (HTML/CSS/JS).
+  descripe_l7_person: "🎨 À part ça, le dessin, la photographie, la lecture, l'écriture, le cinéma et les Rubik's Cube sont mes passe-temps favoris !
+  descripe_l8_person: "📕 Ce que je lis en ce moment : Harry Potter et la Coupe de Feu."
+  descripe_l9_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
+  descripe_l10_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
  
   
 
@@ -91,7 +93,7 @@ params:
         
 
   # Experience
-  disable_experience: false
+  disable_experience: true
   experience:
     - company: "Google"
     - company: "Facebook"
@@ -118,7 +120,7 @@ params:
       branch: "UI/UX Design"
       university: "MyDigitalSchool"
       startedyear: "sept. 2024"
-      graduation: "en cours"
+      graduation: "sept. 2025"
     - degree: "Licence Professionnelle"
       branch: "CréaWeb"
       university: "IUT de Lens"
