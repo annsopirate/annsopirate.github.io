@@ -65,7 +65,7 @@ params:
 
   skills:
     - name: Figma
-      percentage: false
+      percentage: 65
     - name: XD
       percentage: 50
     - name: WordPress
