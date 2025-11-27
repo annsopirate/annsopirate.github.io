@@ -58,9 +58,7 @@ params:
   descripe_l5_person: "🌟 Lors de mes études et de mes expériences professionnelles et personnelles, j’ai appris et exercé de nombreuses choses diverses et variées. Elles me permettront d'évoluer dans le secteur culturel et artistique, où créativité, compréhension et communication sont essentielles :"
   descripe_l6_person: "- Empathie utilisateur ; \n- Psychologie cognitive ; \n- UX Research (entretiens, observations, analyse de besoins) ; \n- Rédaction pour le web et réseaux sociaux ; \n- Storytelling visuel et textuel ; \n- Gestion d'identité et cohérence de marque ; \n- Maquettage et prototypage (Figma) ; \n- Photographie et retouche (mobile, hybride, Lightroom) ; \n- Vidéo et montage (Premiere Pro) ; \n- Motion design (After Effects) ; \n- Webdesign et ergonomie ; \n- Création de sites (WordPress, Elementor, Divi) ; \n- Développement front-end (HTML/CSS/JS)."
   descripe_l7_person: "🎨 À part ça, le dessin, la photographie, la lecture, l'écriture, le cinéma et les Rubik's Cube sont mes passe-temps favoris !"
-  descripe_l8_person: "📕 Ce que je lis en ce moment : Harry Potter et la Coupe de Feu."
-  descripe_l9_person: "🧊 Mon Rubik's Cube favori : le Megaminx."
-  descripe_l10_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
+  descripe_l8_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
  
   
 
@@ -117,7 +115,7 @@ params:
   disable_education: false
   education:
     - degree: "MBA Expert"
-      branch: "UI/UX Design"
+      branch: "UI/UX Design (Bac + 4)"
       university: "MyDigitalSchool"
       startedyear: "sept. 2024"
       graduation: "sept. 2025"
