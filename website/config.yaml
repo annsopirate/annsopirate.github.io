@@ -34,7 +34,7 @@ params:
   profile_image: "/images/moi.png"
   name: "Anne-Sophie Hovart"
   namecolor: ffc107
-  profession: "Fraîchement titulaire d'un Bac + 4 en UX/UI Design, en transition vers l'univers culturel et artistique"
+  profession: "Ancienne UX/UI Designeuse (Bac+4) en transition passionnée vers le secteur de la santé visuelle."
   github: "https://github.com/annsopirate"
   #gitlab: "https://gitlab.com"
   linkedin: "https://www.linkedin.com/in/anne-sophie-hovart/"
@@ -51,12 +51,12 @@ params:
   
   # About
   disable_about: false
-  descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 23 ans et je suis en train de déterminer mon nouveau projet professionnel dans l'univers culturel et artistique !"
-  descripe_l2_person: "🌱 J'ai dernièrement obtenu mon Bac + 4 en UX/UI Design effectué chez MyDigitalSchool. Maintenant, je me consacre à mon nouveau projet pro ! Je souhaite découvrir les métiers qui accompagnent les artistes, tels qu'agent artistique, chargée de diffusion ou tourneuse."
-  descripe_l3_person: "💙 Deux expériences m'ont donné envie de me rapprocher des métiers qui accompagnent les artistes :"
-  descripe_l4_person: "- Interview UX donnée à Medallion.fm : En juin 2025, j'ai été inetrviewée par Medallion, une application dédiée aux passionnés de musique. Étant une utilisatrice régulière, j'ai pu partager un regard UX/UI critique sur leur interface et proposer des pistes d'amélioration. Je les ai recontactés en juillet 2025 après avoir recueilli d'autres retours utilisateurs ; \n- Modération d'une chaîne Twitch 1 à 2 fois par semaine (+59k abonnés)."
-  descripe_l5_person: "🌟 Lors de mes études et de mes expériences professionnelles et personnelles, j’ai appris et exercé de nombreuses choses diverses et variées. Elles me permettront d'évoluer dans le secteur culturel et artistique, où créativité, compréhension et communication sont essentielles :"
-  descripe_l6_person: "- Empathie utilisateur ; \n- Psychologie cognitive ; \n- UX Research (entretiens, observations, analyse de besoins) ; \n- Rédaction pour le web et réseaux sociaux ; \n- Storytelling visuel et textuel ; \n- Gestion d'identité et cohérence de marque ; \n- Maquettage et prototypage (Figma) ; \n- Photographie et retouche (mobile, hybride, Lightroom) ; \n- Vidéo et montage (Premiere Pro) ; \n- Motion design (After Effects) ; \n- Webdesign et ergonomie ; \n- Création de sites (WordPress, Elementor, Divi) ; \n- Développement front-end (HTML/CSS/JS)."
+  descripe_l1_person: "🌈 Heyyy ! Moi c’est Anne-Sophie, j’ai 23 ans et je suis en train de déterminer mon nouveau projet professionnel dans le secteur de la santé visuelle !"
+  descripe_l2_person: "🌱 J'ai dernièrement obtenu mon Bac + 4 en UX/UI Design effectué chez MyDigitalSchool. Maintenant, je me consacre à mon nouveau projet pro !"
+  descripe_l3_person: "💙 J'ai effectué de nombreux stages pour confirmer et affiner mon projet dans ce secteur :"
+  descripe_l4_person: "- Stage à l'Institut Ophtalmique Nord de France à Douai \n- Stage chez Lissac à Montigny-en-Ostrevent \n- Stage dans un cabinet d'orthoptie à Douai"
+  descripe_l5_person: "🌟 Mes études et mes expériences m’ont permis de développer des compétences solides et transférables au secteur de la santé visuelle. L’écoute, la précision technique et la compréhension de la perception humaine y seront mes meilleurs atouts :"
+  descripe_l6_person: "- Empathie et approche patient/client ; \n- Précision technique ; \n- Communication \n- Sens de l'esthétique et du visuel."
   descripe_l7_person: "🎨 À part ça, le dessin, la photographie, la lecture, l'écriture, le cinéma et les Rubik's Cube sont mes passe-temps favoris !"
   descripe_l8_person: "Tu veux voir les projets que j'ai réalisés ? clique [ici](#projects) !"
  
